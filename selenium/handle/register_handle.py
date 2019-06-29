@@ -28,4 +28,4 @@ class RegisterHandle(object):
             return self.page.get_code_error_element().get_attribute('value')
 
     def click_register_button(self):
-        self.page.get_register_button().click
+        self.page.get_register_button().click()

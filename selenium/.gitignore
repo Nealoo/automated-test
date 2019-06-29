@@ -1,8 +1,5 @@
-/config/*
-/selenium/read_image.py
-/selenium/register_code.py
-/selenium/start_browser.py
-/selenium/register_function.py
+/config
+/playground
 *.log
 *.pyc
 *.png

@@ -6,4 +6,5 @@ short description
 - python3.6
 - selenium
 - Pillow
-- 
+- Image
+- pytesseract
